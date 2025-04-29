@@ -37,9 +37,9 @@ void setup()
   
     
     lcd.setCursor(0,0);
-    lcd.print("CPS");
+    lcd.print("PROJECT BY");
     lcd.setCursor(0,1);
-    lcd.print("CA #1 ");
+    lcd.print("SMARTKEMBO ");
     delay(1000);
    
 }
