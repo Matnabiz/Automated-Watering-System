@@ -1,5 +1,4 @@
 
-// SMARTKEMBO DISCOVERY SCIENCE //
 #include <LiquidCrystal.h> //LCD Library
 
 #define NOTE_C4 262 
